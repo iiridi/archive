@@ -1,5 +1,0 @@
----
-aliases:
-  - Vyre
-  - Inverted City
----
