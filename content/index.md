@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: The Archive
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Greetings.
+
+My name is Aut.
+
+You are here because you have a question about this world. I am here because I have an answer for your question. Ask away.

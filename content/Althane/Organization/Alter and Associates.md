@@ -2,7 +2,7 @@
 tags: [mercantile]
 ---
 
-Alter & Associates was originally founded as the Alter Transport Company by Jeddik Alter in 266. Jeddik got his start providing transport for various trading companies around Athrea but quickly found smaller transport companies being subsumed into his own as he developed an iron grip on trade in the region. As ATC expanded it began to branch out into other industries, and now makes, transports, and sells near anything. The modern-day A&A umbrella encompasses the employ of many different merchants, but also a small private military for the protection of trade routes.
+Alter & Associates was originally founded as the Alter Transport Company by Jeddik Alter in 266. Jeddik got his start providing transport for various trading companies around [[Althane/Location/Athrea/index|Athrea]] but quickly found smaller transport companies being subsumed into his own as he developed an iron grip on trade in the region. As ATC expanded it began to branch out into other industries, and now makes, transports, and sells near anything. The modern-day A&A umbrella encompasses the employ of many different merchants, but also a small private military for the protection of trade routes.
 
 ### Life as a Merchant Under A&A
 

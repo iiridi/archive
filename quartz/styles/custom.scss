@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+#explorer-content a {
+    font-family: var(--codeFont);
+    font-weight: 400 !important;
+}

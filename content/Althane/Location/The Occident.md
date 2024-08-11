@@ -1,3 +1,3 @@
-The Occident is the collection of countries on the western half of Althane. The current major ruling powers are Salores on the western coast, El-Rasar on the northern coast, Oresk on the southeastern peninsula, Brejvasing to the south, Illyara in the center of the Ghostrime Sea, and Athrea adjacent to the land bridge to the east.
+The Occident is the collection of countries on the western half of [[Althane/index|Althane]]. The current major ruling powers are [[Althane/Location/Salores/index|Salores]] on the western coast, [[Althane/Location/El Rasar/index|El-Rasar]] on the northern coast, [[Althane/Location/Oresk/index|Oresk]] on the southeastern peninsula, [[Althane/Location/Brejvasing/index|Brejvasing]] to the south, [[Althane/Location/Illyara/index|Illyara]] in the center of the [[The Ghostrime Sea|Ghostrime Sea]], and [[Althane/Location/Athrea/index|Athrea]] adjacent to the land bridge to the east.
 
-![A map of the occident](/occident.jpeg)
+![[occident.jpeg]]

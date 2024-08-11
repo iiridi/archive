@@ -1,1 +1,1 @@
-Lantium is a major city in Athrea.
+Lantium is a major city in [[Althane/Location/Athrea/index|Athrea]].

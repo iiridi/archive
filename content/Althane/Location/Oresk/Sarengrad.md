@@ -1,1 +1,1 @@
-Sarengrad is the second-largest city in Oresk.
+Sarengrad is the second-largest city in [[Althane/Location/Oresk/index|Oresk]].

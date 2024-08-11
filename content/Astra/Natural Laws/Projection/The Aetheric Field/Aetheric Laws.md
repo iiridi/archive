@@ -1,4 +1,4 @@
-As the energy within the Aether is non-uniformly distributed, it can be extrapolated that there are laws that govern the energy's behavior. The three primary laws are the law of mass, the law of impulse, and the law of consumption.
+As the energy within the [[Astra/Natural Laws/Projection/The Aetheric Field/index|Aether]] is non-uniformly distributed, it can be extrapolated that there are laws that govern the energy's behavior. The three primary laws are the law of mass, the law of impulse, and the law of consumption.
 
 ### The Law of Mass
 
@@ -6,7 +6,7 @@ Mana flows from points of low mass to high mass. Mass, in this instance, does no
 
 ### The Law of Impulse
 
-Mana tends towards objects with high continuous momentum. Quickly moving objects and very large slow-moving objects both have high impulse, and as such tend to attract mana. This is most commonly seen around celestial bodies, such as planets, whose orbits gather large quantities of arcane energy.
+Mana tends towards objects with high momentum. Quickly moving objects and very large slow-moving objects both have high momentum, and as such tend to attract mana. This is most commonly seen around celestial bodies, such as planets, whose orbits gather large quantities of arcane energy.
 
 ### The Law of Consumption
 

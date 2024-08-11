@@ -2,4 +2,4 @@
 tags: [adventuring-party]
 ---
 
-The Weft is a collection of four to six adventurers that have traveled between Toleros and the Hidden Gulch. They're registered with the Guild and have completed some quests in the name of justice.
+The Weft is a collection of four to six adventurers that have traveled across [[Althane/index|Althane]]. They're registered with [[The Guild]] and have completed some quests in the name of justice.

@@ -1,12 +1,13 @@
 ---
 title: Locality
+aliases: [Locality]
 ---
 
-A locality is a region in the Astra that can support life. For convenience, localities are separated into classes that convey some fundamental characteristics of the region.
+A locality is a region in the [[Astra/index|Astra]] that can support life. For convenience, localities are separated into classes that convey some fundamental characteristics of the region.
 
 ## α class
 
-An α class locality is located within the core of the Astra and is habitable enough to support tens of millions to billions of sentient beings. Examples of α classes include Thessia and Orbits-Upon-Light.
+An α class locality is located within the core of the Astra and is habitable enough to support tens of millions to billions of sentient beings. Examples of α classes include New Thessia and Orbits-Upon-Light.
 
 ## β class
 
@@ -14,7 +15,7 @@ A β class locality is found on the inner half of a spiral arm and can support a
 
 ## γ class
 
-A γ class locality is found on the outer half of a spiral arm and cannot be actively hostile to the development of sentient life. Examples of γ classes include Vokon-B and Althane.
+A γ class locality is found on the outer half of a spiral arm and cannot be actively hostile to the development of sentient life. Examples of γ classes include Vokon-B and [[Althane/index|Althane]].
 
 ## δ class
 

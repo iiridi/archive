@@ -1,3 +1,3 @@
 ---
-title: Anscestries of Althane
+title: Ancestry
 ---
