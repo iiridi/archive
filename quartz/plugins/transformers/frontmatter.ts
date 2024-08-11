@@ -1,11 +1,11 @@
 import matter from "gray-matter"
-import remarkFrontmatter from "remark-frontmatter"
-import { QuartzTransformerPlugin } from "../types"
 import yaml from "js-yaml"
+import remarkFrontmatter from "remark-frontmatter"
 import toml from "toml"
-import { slugTag } from "../../util/path"
-import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
+import { slugTag } from "../../util/path"
+import { QuartzTransformerPlugin } from "../types"
+import { QuartzPluginData } from "../vfile"
 
 export interface Options {
   delimiters: string | [string, string]
@@ -63,8 +63,14 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
-            const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
-            if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
+            const slug = (file.data.slug ?? "")
+              .split("/")
+              .map((tag: string) => slugTag(tag))
+            slug.pop()
+
+            const tags = (coerceToArray(coalesceAliases(data, ["tags", "tag"])) ?? [])
+              .map((tag: string) => slugTag(tag))
+            data.tags = [...new Set([...tags])]
 
             const aliases = coerceToArray(coalesceAliases(data, ["aliases", "alias"]))
             if (aliases) data.aliases = aliases

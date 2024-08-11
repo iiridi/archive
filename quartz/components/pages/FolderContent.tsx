@@ -49,6 +49,11 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     return (
       <div class={classes}>
         <article>{content}</article>
+        <div class="page-listing">
+          <div>
+            <PageList {...listProps} />
+          </div>
+        </div>
       </div>
     )
   }

@@ -1,15 +1,15 @@
 import { Root } from "hast"
+import { toHtml } from "hast-util-to-html"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
+import DepGraph from "../../depgraph"
+import { i18n } from "../../i18n"
 import { escapeHTML } from "../../util/escape"
 import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
-import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
-import { i18n } from "../../i18n"
-import DepGraph from "../../depgraph"
 
-export type ContentIndex = Map<FullSlug, ContentDetails>
+export type ContentIndex = { [key: FullSlug]: ContentDetails} & Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   title: string
   links: SimpleSlug[]
@@ -116,7 +116,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
     async emit(ctx, content, _resources) {
       const cfg = ctx.cfg.configuration
       const emitted: FilePath[] = []
-      const linkIndex: ContentIndex = new Map()
+      const linkIndex: ContentIndex = new Map<FullSlug, ContentDetails>() as ContentIndex
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()

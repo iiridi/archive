@@ -1,9 +1,21 @@
-import { PerfTimer } from "../util/perf"
-import { getStaticResourcesFromPlugins } from "../plugins"
+import { FolderPage, getStaticResourcesFromPlugins } from "../plugins"
 import { ProcessedContent } from "../plugins/vfile"
-import { QuartzLogger } from "../util/log"
-import { trace } from "../util/trace"
 import { BuildCtx } from "../util/ctx"
+import { QuartzLogger } from "../util/log"
+import { PerfTimer } from "../util/perf"
+import { trace } from "../util/trace"
+
+export async function emitFolderContent(ctx: BuildCtx, content: ProcessedContent[]) {
+  const staticResources = getStaticResourcesFromPlugins(ctx)
+  const emitter = FolderPage();
+
+  try {
+    return await emitter.emit(ctx, content, staticResources)
+  } catch (err) {
+    trace(`Failed to emit from plugin \`${emitter.name}\``, err as Error)
+    return [];
+  }
+}
 
 export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
   const { argv, cfg } = ctx

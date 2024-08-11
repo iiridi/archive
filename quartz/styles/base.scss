@@ -2,6 +2,10 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -15,6 +19,7 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
+  background-image: url(http://scribe.pf2.tools/assets/paper.jpg);
   font-family: var(--bodyFont);
   color: var(--darkgray);
 }

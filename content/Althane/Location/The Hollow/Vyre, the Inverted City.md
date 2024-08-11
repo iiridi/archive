@@ -1,0 +1,1 @@
+Built on Althane before the [[Coalition]] arrived. Guarded by [[Sarrix]], one of the [[Divine Emissaries]] that emerged from [[Divinity/Lacuna/index]]'s corpse.

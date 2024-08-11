@@ -1,0 +1,1 @@
+The Stranger (or, as [[Organization/Adventuring/The Weft|the Weft]] have taking to calling him, the Feep) is an entity trapped at the center of [[Realm/Inner Realms/Althane|Althane]].

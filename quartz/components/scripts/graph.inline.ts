@@ -1,7 +1,7 @@
-import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import * as d3 from "d3"
-import { registerEscapeHandler, removeAllChildren } from "./util"
+import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { registerEscapeHandler, removeAllChildren } from "./util"
 
 type NodeData = {
   id: SimpleSlug
@@ -55,6 +55,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   )
   const links: LinkData[] = []
   const tags: SimpleSlug[] = []
+
+  const slugPath = fullSlug.split("/");
+  slugPath.pop();
+  slugPath.push("index");
+
+  const parentSlug = slugPath.join("/") as FullSlug;
+  links.push({ source: slug, target: simplifySlug(parentSlug) });
 
   const validLinks = new Set(data.keys())
   for (const [source, details] of data.entries()) {
@@ -153,9 +160,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     if (isCurrent) {
       return "var(--secondary)"
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return "var(--tertiary)"
-    } else {
       return "var(--gray)"
+    } else {
+      return "var(--tertiary)"
     }
   }
 

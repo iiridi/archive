@@ -1,19 +1,22 @@
-import { intro, outro, select, text } from "@clack/prompts"
-import { Mutex } from "async-mutex"
-import chalk from "chalk"
-import { execSync, spawnSync } from "child_process"
-import chokidar from "chokidar"
-import { randomUUID } from "crypto"
-import esbuild from "esbuild"
-import { sassPlugin } from "esbuild-sass-plugin"
-import fs, { promises } from "fs"
-import http from "http"
-import path from "path"
-import prettyBytes from "pretty-bytes"
-import { rimraf } from "rimraf"
-import serveHandler from "serve-handler"
-import { WebSocketServer } from "ws"
-import { CreateArgv } from "./args.js"
+import { intro, outro, select, text } from "@clack/prompts";
+import { Mutex } from "async-mutex";
+import autoprefixer from 'autoprefixer';
+import chalk from "chalk";
+import { execSync, spawnSync } from "child_process";
+import chokidar from "chokidar";
+import { randomUUID } from "crypto";
+import esbuild from "esbuild";
+import { sassPlugin } from "esbuild-sass-plugin";
+import fs, { promises } from "fs";
+import http from "http";
+import path from "path";
+import postcss from 'postcss';
+import prettyBytes from "pretty-bytes";
+import { rimraf } from "rimraf";
+import serveHandler from "serve-handler";
+import tailwindcss from 'tailwindcss';
+import { WebSocketServer } from "ws";
+import { CreateArgv } from "./args.js";
 import {
   cacheFile,
   cwd,
@@ -22,14 +25,14 @@ import {
   QUARTZ_SOURCE_BRANCH,
   UPSTREAM_NAME,
   version,
-} from "./constants.js"
+} from "./constants.js";
 import {
   escapePath,
   exitIfCancel,
   gitPull,
   popContentFolder,
   stashContentFolder,
-} from "./helpers.js"
+} from "./helpers.js";
 
 /**
  * Handles `npx quartz create`
@@ -234,6 +237,10 @@ export async function handleBuild(argv) {
       sassPlugin({
         type: "css-text",
         cssImports: true,
+        async transform(source, resolveDir) {
+          const {css} = await postcss([autoprefixer, tailwindcss]).process(source, {from: undefined})
+          return css
+        }
       }),
       {
         name: "inline-script-loader",

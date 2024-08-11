@@ -1,24 +1,24 @@
-import sourceMapSupport from "source-map-support"
-sourceMapSupport.install(options)
-import path from "path"
-import { PerfTimer } from "./util/perf"
-import { rimraf } from "rimraf"
-import { GlobbyFilterFunction, isGitIgnored } from "globby"
-import chalk from "chalk"
-import { parseMarkdown } from "./processors/parse"
-import { filterContent } from "./processors/filter"
-import { emitContent } from "./processors/emit"
-import cfg from "../quartz.config"
-import { FilePath, FullSlug, joinSegments, slugifyFilePath } from "./util/path"
-import chokidar from "chokidar"
-import { ProcessedContent } from "./plugins/vfile"
-import { Argv, BuildCtx } from "./util/ctx"
-import { glob, toPosixPath } from "./util/glob"
-import { trace } from "./util/trace"
-import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
+import chalk from "chalk"
+import chokidar from "chokidar"
+import { GlobbyFilterFunction, isGitIgnored } from "globby"
+import path from "path"
+import { rimraf } from "rimraf"
+import sourceMapSupport from "source-map-support"
+import cfg from "../quartz.config"
 import DepGraph from "./depgraph"
 import { getStaticResourcesFromPlugins } from "./plugins"
+import { ProcessedContent } from "./plugins/vfile"
+import { emitContent, emitFolderContent } from "./processors/emit"
+import { filterContent } from "./processors/filter"
+import { parseMarkdown } from "./processors/parse"
+import { Argv, BuildCtx } from "./util/ctx"
+import { glob, toPosixPath } from "./util/glob"
+import { FilePath, FullSlug, joinSegments, slugifyFilePath } from "./util/path"
+import { PerfTimer } from "./util/perf"
+import { options } from "./util/sourcemap"
+import { trace } from "./util/trace"
+sourceMapSupport.install(options)
 
 type Dependencies = Record<string, DepGraph<FilePath> | null>
 
@@ -37,6 +37,35 @@ type BuildData = {
 }
 
 type FileEvent = "add" | "change" | "delete"
+
+async function addFolders(incoming: ProcessedContent[]) {
+  const seen = new Set<string>();
+  for (const [_, file] of incoming) {
+    seen.add(file.data.slug!);
+  }
+
+  const folders: ProcessedContent[] = [];
+  for (const [_, file] of incoming) {
+    const fullSlug = file.data.slug!;
+
+    const slugPath = fullSlug.split("/");
+    slugPath.pop();
+
+    const parentSlug = slugPath.join("/");
+    if (parentSlug === "" || seen.has(parentSlug)) {
+      continue;
+    }
+
+    seen.add(parentSlug);
+    const trueSlug = `${parentSlug}/index` as FullSlug;
+
+    // folders.push({
+
+    // })
+  }
+
+  return [...incoming, ...folders];
+}
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
@@ -75,6 +104,9 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
   const filteredContent = filterContent(ctx, parsedFiles)
+
+  const generatedFolders = await emitFolderContent(ctx, filteredContent);
+  // const folderedContent = await addFolders(parsedFiles);
 
   const dependencies: Record<string, DepGraph<FilePath> | null> = {}
 
