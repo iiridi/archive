@@ -45,15 +45,21 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       (tree as Root).children.length === 0
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
-
+    
     return (
       <div class={classes}>
         <article>{content}</article>
-        <div class="page-listing">
-          <div>
-            <PageList {...listProps} />
-          </div>
-        </div>
+        {
+          folderSlug === ""
+            ? (<></>)
+            : (
+              <div class="page-listing">
+                <div>
+                  <PageList {...listProps} />
+                </div>
+              </div>
+            )
+        }
       </div>
     )
   }

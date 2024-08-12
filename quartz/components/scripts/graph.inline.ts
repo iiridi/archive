@@ -47,8 +47,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     focusOnHover,
   } = JSON.parse(graph.dataset["cfg"]!)
 
+  const fetchedData = await fetchData;
   const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+    Object.entries<ContentDetails>(fetchedData).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),
@@ -62,6 +63,19 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
   const parentSlug = slugPath.join("/") as FullSlug;
   links.push({ source: slug, target: simplifySlug(parentSlug) });
+
+  const cleanedSlug = fullSlug.replace(/\/index$/, '');
+  if (fullSlug !== "" && fullSlug !== "index") {
+    Object.entries<ContentDetails>(fetchedData)
+      .filter(([slug,]) => slug.startsWith(cleanedSlug))
+      .filter(([slug,]) => slug.replace(/\/index$/, '').split("/").length === (cleanedSlug.split("/").length + 1))
+      .forEach(([slug,]) => {
+        links.push({
+          source: simplifySlug(slug as FullSlug),
+          target: simplifySlug(fullSlug),
+        });
+      })
+  }
 
   const validLinks = new Set(data.keys())
   for (const [source, details] of data.entries()) {

@@ -1,4 +1,5 @@
 ---
+title: The W.E.F.T.
 tags: [adventuring-party]
 ---
 
