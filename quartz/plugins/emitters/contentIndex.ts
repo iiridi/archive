@@ -9,7 +9,7 @@ import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../.
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 
-export type ContentIndex = { [key: FullSlug]: ContentDetails} & Map<FullSlug, ContentDetails>
+export type ContentIndex = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   title: string
   links: SimpleSlug[]

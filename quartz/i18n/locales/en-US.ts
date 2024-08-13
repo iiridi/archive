@@ -19,7 +19,7 @@ export default {
       danger: "Danger",
       bug: "Bug",
       example: "Example",
-      quote: "Quote",
+      quote: "",
     },
     backlinks: {
       title: "Backlinks",

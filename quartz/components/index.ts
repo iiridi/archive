@@ -21,11 +21,31 @@ import Search from "./Search"
 import Spacer from "./Spacer"
 import TableOfContents from "./TableOfContents"
 import TagList from "./TagList"
+import Theme from "./Theme"
 
 export {
   Ai,
-  ArticleTitle, Backlinks, Breadcrumbs,
-  Comments, Content, ContentMeta, Darkmode, DesktopOnly, Explorer, FolderContent, Footer, Graph, Head, MobileOnly, NotFound, PageTitle, RecentNotes, Search, Spacer,
-  TableOfContents, TagContent, TagList
+  ArticleTitle,
+  Backlinks,
+  Breadcrumbs,
+  Comments,
+  Content,
+  ContentMeta,
+  Darkmode,
+  DesktopOnly,
+  Explorer,
+  FolderContent,
+  Footer,
+  Graph,
+  Head,
+  MobileOnly,
+  NotFound,
+  PageTitle,
+  RecentNotes,
+  Search,
+  Spacer,
+  TableOfContents,
+  TagContent,
+  TagList,
+  Theme,
 }
-

@@ -1,5 +1,22 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { ColorScheme } from "./quartz/util/theme"
+
+type RGB = [number, number, number]
+
+const createTheme = ([sr, sg, sb]: RGB, [tr, tg, tb]: RGB): ColorScheme => ({
+  light: "#faf8f8",
+  lightgray: "#e5e5e5",
+  gray: "#b8b8b8",
+  darkgray: "#4e4e4e",
+  dark: "#2b2b2b",
+  secondary: `rgb(${sr}, ${sg}, ${sb})`,
+  tertiary: `rgb(${tr}, ${tg}, ${tb})`,
+  highlight: `rgba(${sr}, ${sg}, ${sb}, 0.15)`,
+  textHighlight: `rgba(${tr}, ${tg}, ${tb}, 0.15)`,
+})
+
+// 12 87 204
 
 const config: QuartzConfig = {
   configuration: {
@@ -20,28 +37,11 @@ const config: QuartzConfig = {
         code: "Roboto Condensed",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#58180D",
-          tertiary: "#a62e19",
-          highlight: "rgba(88, 24, 13, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+        althane: createTheme([88, 24, 13], [166, 46, 25]),
+        astra: createTheme([88, 136, 168], [132, 165, 157]),
+        faerrin: createTheme([14, 112, 75], [163, 196, 188]),
+        syrin: createTheme([12, 87, 204], [163, 196, 188]),
+        ushas: createTheme([206, 106, 0], [110, 64, 18]),
       },
     },
   },

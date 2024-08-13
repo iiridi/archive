@@ -14,3 +14,12 @@ poetry *args:
 
 embed:
     @{{poetry}} -C '{{dir}}\embedding' run '{{dir}}\embedding\embedding\embed.py'
+
+clean:
+    rd -r .\public\
+
+run: clean
+    npx quartz build --serve
+
+publish: clean
+    npx quartz sync
