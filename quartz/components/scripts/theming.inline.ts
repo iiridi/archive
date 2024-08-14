@@ -13,12 +13,14 @@ document.addEventListener<"nav">("nav", ({ detail: { url: slug } }: CustomEventM
     switch ((slug as string).split("/")[0].toLowerCase()) {
       case "astra":
         return "astra"
-      case "faerrin":
+      case "færrin":
         return "faerrin"
       case "syrin":
         return "syrin"
       case "ushas":
         return "ushas"
+      case "urth":
+        return "urth"
       default:
         return "althane"
     }

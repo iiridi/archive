@@ -1,11 +1,11 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
-import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path"
-import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
-import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
+import { QuartzPluginData } from "../../plugins/vfile"
+import { htmlToJsx } from "../../util/jsx"
+import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path"
+import { PageList, SortFn } from "../PageList"
+import style from "../styles/listPage.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 interface TagContentOptions {
   sort?: SortFn
@@ -75,7 +75,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                 <div>
                   <h2>
                     <a class="internal tag-link" href={`../tags/${tag}`}>
-                      {tag}
+                      {tag.replaceAll(/-/g, " ")}
                     </a>
                   </h2>
                   {content && <p>{content}</p>}

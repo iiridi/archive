@@ -1,12 +1,12 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
-import { QuartzPluginData } from "../plugins/vfile"
-import { byDateAndAlphabetical } from "./PageList"
-import style from "./styles/recentNotes.scss"
-import { Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
+import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
+import { Date, getDate } from "./Date"
+import { byDateAndAlphabetical } from "./PageList"
+import style from "./styles/recentNotes.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 interface Options {
   title?: string
@@ -66,7 +66,7 @@ export default ((userOpts?: Partial<Options>) => {
                             class="internal tag-link"
                             href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
                           >
-                            {tag}
+                            {tag.replaceAll(/-/g, " ")}
                           </a>
                         </li>
                       ))}

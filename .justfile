@@ -15,8 +15,11 @@ poetry *args:
 embed:
     @{{poetry}} -C '{{dir}}\embedding' run '{{dir}}\embedding\embedding\embed.py'
 
+api:
+    @{{poetry}} -C '{{dir}}\embedding' run '{{dir}}\embedding\embedding\search.py'
+
 clean:
-    rd -r .\public\
+    If (Test-Path .\public) { Remove-Item -r .\public\ }
 
 run: clean
     npx quartz build --serve

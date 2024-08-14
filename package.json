@@ -85,6 +85,7 @@
     "serve-handler": "^6.1.5",
     "shiki": "^1.10.3",
     "source-map-support": "^0.5.21",
+    "tailwindcss-opentype": "^1.1.0",
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
     "unified": "^11.0.4",

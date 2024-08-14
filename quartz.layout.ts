@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -31,6 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Theme(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({ title: "Stacks", folderClickBehavior: "link" })),
+    Component.RecentNotes({ title: "Recent data", limit: 5, showTags: false }),
   ],
   right: [
     Component.Graph(),

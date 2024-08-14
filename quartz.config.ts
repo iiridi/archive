@@ -42,6 +42,7 @@ const config: QuartzConfig = {
         faerrin: createTheme([14, 112, 75], [163, 196, 188]),
         syrin: createTheme([12, 87, 204], [163, 196, 188]),
         ushas: createTheme([206, 106, 0], [110, 64, 18]),
+        urth: createTheme([107, 4, 126], [121, 50, 135]),
       },
     },
   },

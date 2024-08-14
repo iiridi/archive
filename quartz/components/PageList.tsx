@@ -1,8 +1,8 @@
-import { FullSlug, resolveRelative } from "../util/path"
+import { GlobalConfiguration } from "../cfg"
 import { QuartzPluginData } from "../plugins/vfile"
+import { FullSlug, resolveRelative } from "../util/path"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
-import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -65,7 +65,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                       class="internal tag-link"
                       href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
                     >
-                      {tag}
+                      {tag.replaceAll(/-/g, " ")}
                     </a>
                   </li>
                 ))}
