@@ -31,12 +31,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Theme(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({ title: "Stacks", folderClickBehavior: "link" })),
-    Component.RecentNotes({ title: "Recent data", limit: 5, showTags: false }),
+    Component.DesktopOnly(
+      Component.RecentNotes({ title: "Recent data", limit: 5, showTags: false }),
+    ),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(
+      Component.RecentNotes({ title: "Recent data", limit: 5, showTags: false }),
+    ),
   ],
 }
 
