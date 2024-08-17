@@ -1,1 +1,4 @@
-Formless was the 
+---
+tags: [divinity, higher-kind, thessian]
+---
+

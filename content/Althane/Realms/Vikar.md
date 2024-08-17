@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Vikar is a cloud-covered planet, with swirls of red, blue, and green obscuring the ground from view.
 
 color.

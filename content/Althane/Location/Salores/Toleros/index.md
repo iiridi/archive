@@ -1,6 +1,7 @@
 ---
 title: Toleros
 aliases: [Toleros]
+tags: [city]
 ---
 A bustling frontier city in [[Althane/Location/Salores/index|Salores]]. Currently ruled by [[Lady Grave]], a merchant who rose to power overseeing the city's shift to [[Gunpowder|gunpowder]] production.
 

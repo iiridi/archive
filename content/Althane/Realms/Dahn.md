@@ -1,7 +1,11 @@
+---
+tags: [planet]
+---
+
 Dahn is a white and light yellow planet with three yellow rings. The rings all rotate at different intervals and align perfectly only once every sixty years.
 
 color.
-: Effects from Dahn have the color of <span class="text-[#662692]">amethyst</span>.
+:   Effects from Dahn have the color of <span class="text-[#662692]">amethyst</span>.
 
 aspects.
 : Wisdom: decisiveness, intuition, empathy, and instinct.

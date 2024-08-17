@@ -1,3 +1,7 @@
+---
+tags: [axiom]
+---
+
 Manifestation is the art of shaping, moving, and altering energy to affect the physical world in some way. Different civilizations across the [[Astra/index|Astra]] call Manifestation different names — magic, worldshaping, spellcasting, psionics, words of power, martial arts, grave-singing, mind over matter, allomancy, temperwright, and hundreds of others.
 
 While Manifestation may have completely different appearances and observable effects in different localities, the base process remains the same: ambient energy is pulled from some source within the locality and is manipulated to cause an effect. Common examples include incantations to Manifest flame within a short distance and metal piercings that grant improved sight to their wearer.

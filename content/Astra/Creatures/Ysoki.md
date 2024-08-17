@@ -1,3 +1,7 @@
+---
+tags: [ancestry]
+---
+
 Ysoki love to travel, and they can often be found on the road in merchant caravans. They're good with their hands and have a keen eye for spotting anything out of the ordinary, from threats to treasures. They're also inveterate hoarders; ysoki warrens are crammed full of unusual odds and ends gathered by previous generations and stowed away in preparation for some future emergency.
 
 Ysoki have whiskered snouts, large ears, and hairless tails, and typically have red eyes and short brown or black fur. A common ysoki is 4 feet tall and weighs around 80 pounds. Ysoki vary considerably, however; even a single-family group can exhibit substantial variation in hair color, eye color, or size.

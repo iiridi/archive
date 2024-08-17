@@ -1,6 +1,7 @@
 ---
 title: Locality
 aliases: [Locality]
+tags: [axiom]
 ---
 
 A locality is a region in the [[Astra/index|Astra]] that can support life. For convenience, localities are separated into classes that convey some fundamental characteristics of the region.

@@ -1,3 +1,7 @@
+---
+tags: [event]
+---
+
 The [[Crystal Sphere|world]] began as an inert, uniform expanse of red particulate, floating in otherwise empty space. For an infinitely long time, and yet no time at all, the particulate stayed as it was. It did not move, for there was nothing to move it; it did not change, as there was nothing to change it.
 
 After many eternities of this stability passed, a wandering spirit happened upon the stagnant waste. [[Althane/Divinity/Lacuna/index|Lacuna]] was a kind, virtuous, lonely creature -- one who wished for the void to be more than an expanse of unfeeling fixity. Lacuna sought to end their solitude, so they took hold of the starstuff around them and began to sculpt.

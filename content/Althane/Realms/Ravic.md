@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Ravic is a bright red and yellow planet with streams of superheated plasma that extend out for miles from the planet's surface.
 
 color.

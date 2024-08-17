@@ -1,6 +1,7 @@
 ---
 title: Lunae Badlands
 aliases: [Lunae Badlands]
+tags: [country]
 ---
 The Lunae Badlands is an expansive, red-clay-filled plain with deep canyons, sparse vegetation, harsh manastorms, and skilled (if desperate) predators. Until recently, it was thought there was little of interest within the Badlands -- there were no settlements of note, and the effort required to cart in supplies couldn't justify the meager ore veins in the region. That changed a few decades ago, however, with the discovery of saltpetre and its importance in the production of [[Gunpowder|gunpowder]].
 

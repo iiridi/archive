@@ -1,6 +1,7 @@
 ---
 title: Brejvasing
 aliases: [Brejvasing]
+tags: [country]
 ---
 From a distance, Brejvasing doesn't look like much. Its one town, [[Lan Ruud]], is a quarter the size of other country's capitals; and its citizens rarely visit other cities. As such, rumors about the illusive Brejvasens run rampant in other parts of the continent -- ranging from mundane stereotypes about their accent or barbarism to more strange Brejvasen conspiracies to rule the world.
 

@@ -1,5 +1,6 @@
 ---
 title: YuDaan's Nine-fold Treatise
+tags: [document]
 ---
 `Below is an excerpt, copied with permission from the central stream`
 

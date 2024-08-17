@@ -1,6 +1,7 @@
 ---
 title: Astra
 aliases: [Astra]
+tags: [axiom]
 ---
 
 The Astra is everything there ever was, is, and will be. Thousands of [[Astra/Natural Laws/Locality/index|localities]] host trillions of lives; all spiraling from a chaotic font of pure energy.

@@ -1,6 +1,7 @@
 ---
 title: Haven
 aliases: [Haven]
+tags: [city]
 ---
 Haven is the most prosperous city in the [[Althane/Location/Lunae Badlands/Hidden Gulch/index|Gulch]] -- the only one with an open supply of water, wood and food. It's led by [[Ezekiel Grimm|Reverend Grimm]], the patriarch of the [[Church of the Thirteenth Realm]].
 

@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Samay is a striated brown and yellow planet. Its speed and direction of rotation change both randomly and rapidly, but a particular spin pattern never lasts longer than 24 hours.
 
 color.

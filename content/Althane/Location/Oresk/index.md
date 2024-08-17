@@ -1,6 +1,7 @@
 ---
 title: Oresk
 aliases: [Oresk]
+tags: [country]
 ---
 Oresk is a militant country tucked into an arctic forest behind a mountain range. The capital ([[Kirov]]) and most of its outlying towns are within [[Udasil|Udasil's]] [[Nexus|nexus]]; this has hardened the Oreskians, forcing them to become stronger and more innovative to survive. Food decays hours after harvest, small injuries can quickly spiral into life-threatening complications, and the cold in the region seems to sap strength away from all who are exposed for too long.
 

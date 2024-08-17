@@ -1,6 +1,7 @@
 ---
 title: El-Rasar
 aliases: [El-Rasar]
+tags: [country]
 ---
 El-Rasar is two nations within one. The northern half of the country is within [[Vazan|Vazan's]] [[Nexus|nexus]]. [[Qor Bahi|Floating cities]] pulled out of the mountains below drift far above the ground, kept in place by sturdy chains affixed to the ground. The cities here are primarily mining-focused, relying on the rich ore veins in the mountains below. Despite the difficulty of their trade, northern El-rasarans are famous for their levity -- jokes fly as freely as they do through the supernaturally light air. El-rasaran parties are known continent-wide for being overly raucous and lasting for weeks (exacerbated by the fact that it's a holiday nearly every other day there).
 

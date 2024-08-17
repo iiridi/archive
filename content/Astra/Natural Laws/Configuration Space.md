@@ -1,5 +1,6 @@
 ---
 aliases: [Ashmont Space, Hemn Space]
+tags: [document]
 ---
 `Included below is an excerpt of a dialogue between a fraa, Roterodamus, and his pupil, the young Barb.`
 

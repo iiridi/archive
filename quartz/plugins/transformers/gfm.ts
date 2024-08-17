@@ -1,8 +1,9 @@
+import rehypeAutolinkHeadings from "rehype-autolink-headings"
+import rehypeSlug from "rehype-slug"
+import { remarkDefinitionList } from "remark-definition-list"
 import remarkGfm from "remark-gfm"
 import smartypants from "remark-smartypants"
 import { QuartzTransformerPlugin } from "../types"
-import rehypeSlug from "rehype-slug"
-import rehypeAutolinkHeadings from "rehype-autolink-headings"
 
 export interface Options {
   enableSmartyPants: boolean
@@ -21,7 +22,9 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | 
   return {
     name: "GitHubFlavoredMarkdown",
     markdownPlugins() {
-      return opts.enableSmartyPants ? [remarkGfm, smartypants] : [remarkGfm]
+      return opts.enableSmartyPants
+        ? [remarkGfm, smartypants, remarkDefinitionList]
+        : [remarkGfm, remarkDefinitionList]
     },
     htmlPlugins() {
       if (opts.linkHeadings) {

@@ -1,5 +1,6 @@
 ---
 title: Halidex Op-B
+tags: [kaathe]
 ---
 Hali is a [[Kaathe]] with extensive memory loss. Her orb was kept in an [[Althane/Location/Illyara/index|Illyaran]] archive until it was shipped in secret to [[Aliaksandr Sarken]]. After a series of thefts and counter-thefts, the orb now resides in the hands of [[The Weft]], who are currently searching out its twin for [[Tennobrin Er-K|Tenno]].
 

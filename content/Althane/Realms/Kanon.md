@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Kanon is a gray planetoid in the shape of an icosahedron instead of the normal spherical shape that most other realms take.
 
 color.

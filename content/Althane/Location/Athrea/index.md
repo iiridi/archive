@@ -1,6 +1,7 @@
 ---
 title: Athrea
 aliases: [Athrea]
+tags: [country]
 ---
 Athrea is less a country and more a roiling mass of ever-shifting alliances and backstabbing between short-lived duchies. The populace of Athrea is concentrated in the densely forested region central to western Althane but there are claims in the grassland areas further west and the mountainous region to the east. [[Sunnok|Sunnok's]] [[Nexus|nexus]] is constantly moving throughout the region; both contributing to and exacerbating the near-constant flux of power between rival cities.
 

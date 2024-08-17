@@ -1,5 +1,6 @@
 ---
 title: Tennobrin Er-K
+tags: [kaathe]
 ---
 Tenno is a [[Kaathe]] with extensive memory loss. His orb is located somewhere inside a dream in [[Althane/Location/Lunae Badlands/Hidden Gulch/Haven/index|Haven]], but he currently resides in [[Halidex Op-B|Hali's]] orb and has been there as long as he can remember.
 

@@ -1,6 +1,7 @@
 ---
 title: Salores
 aliases: [Salores]
+tags: [country]
 ---
 
 Salores is the result of generations of stubborn people digging their heels into the ground instead of giving way to the forces of nature. Most of the land in Salores is a saltwater marsh that provides little stable ground to build upon. In addition, a [[Tidal|miles-high wave]] that forms on the eastern side of the continent and travels across the globe crashes upon the country's shores every few weeks. Sourcing food is difficult too -- most livestock cannot survive in the knee-high waters of the marsh, only some hardy mosses and seaweed can grow in the salty ground, and the Tidal effectively prohibits fishing. The area is altogether poorly suited for a civilization.

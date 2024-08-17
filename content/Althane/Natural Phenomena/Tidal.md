@@ -1,3 +1,7 @@
+---
+tags: [wonder]
+---
+
 The Tidal is a miles-high wave that begins on the easternmost part of the continent and travels across the entire ocean until it slams into the westernmost coast — which happens to be [[Althane/Location/Salores/index|Salores]].
 
 While the Tidal doesn’t come at regular intervals, its arrival can be predicted in advance by careful observation of the location of the realms as well as tectonic activities. This job is usually done by the Wavereaders of [[Vallastela]] — an occupation that is held in very high esteem (at least, when they get it right).

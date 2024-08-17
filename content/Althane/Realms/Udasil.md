@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Udasil is a deep blue planet with lighter blue cracks and crevasses running across the ground, visible from Althane.
 
 color.

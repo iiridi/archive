@@ -1,3 +1,7 @@
+---
+tags: [planet]
+---
+
 Davar is an orange and red gaseous planet. It appears to leave an afterimage of itself in the sky as it traverses its orbit.
 
 color.
