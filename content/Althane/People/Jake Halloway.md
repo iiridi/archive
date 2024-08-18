@@ -11,4 +11,4 @@ Jake 'Sureshot' Halloway is an outlaw wanted for disorderly conduct, vagrancy, b
 
 Halloway has a small, but vocal, fan group in the southern part of [[Althane/Location/Salores/index|Salores]].
 
-Halloway is a heavy-muscled [[Human]] male with piercing blue eyes, skin tanned to leather, and wild muttonchops that extend inches off his face.
+Halloway is a heavy-muscled [[Lycan]] [[Human]] male with piercing blue eyes, skin tanned to leather, and wild muttonchops that extend inches off his face.
