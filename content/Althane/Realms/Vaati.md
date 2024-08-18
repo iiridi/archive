@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Vaati
+aliases:
+  - Vaati
 ---
 
 Vaati is a massive green and blue terrestrial planet, nearly twice the size of Althane. It travels the furthest away from the center of the Sphere but also moves much more quickly than the other realms.

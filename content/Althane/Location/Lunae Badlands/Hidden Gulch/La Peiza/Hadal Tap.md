@@ -1,5 +1,9 @@
 ---
-tags: [place]
+tags:
+  - place
+title: Hadal Tap
+aliases:
+  - Hadal Tap
 ---
 
 The Hadal Tap is an ancient pumping system from a previous [[Cycle|cycle]] that surfaces water for drinking in [[Althane/Location/Lunae Badlands/Hidden Gulch/La Peiza/index|La Peiza]]. It was infected with a chaos beast that had emerged from below, but an adventuring party defeated the beast, cleaning the water.

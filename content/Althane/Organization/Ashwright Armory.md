@@ -1,6 +1,9 @@
 ---
 title: Ashwright Armory®
-tags: [mercantile]
+tags:
+  - mercantile
+aliases:
+  - Ashwright Armory®
 ---
 
 The Ashwright Armory<sup>®</sup> is a firearm and armor producer operating out of the ruins of an antecyclic manufactory in [[Althane/Location/Salores/index|Salores]]. Harlan Ashwright, the founder, operates under the principle that more is more. As such firearms coming out of the armory hit hard and hit often and their armor can take a real beating. Some of their weapons are below:

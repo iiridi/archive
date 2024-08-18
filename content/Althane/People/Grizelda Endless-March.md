@@ -1,6 +1,9 @@
 ---
 title: Grizelda Endless-March
-tags: [orc]
+tags:
+  - orc
+aliases:
+  - Grizelda Endless-March
 ---
 
 Grizelda is a middle-aged female [[Orc]]. She managed a small trading caravan that travelled between [[Althane/Location/Salores/index|Salores]] and the small mining towns in the [[Althane/Location/Lunae Badlands/index|badlands]].

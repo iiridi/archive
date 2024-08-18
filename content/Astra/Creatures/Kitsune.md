@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Kitsune
+aliases:
+  - Kitsune
 ---
 
 Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them.

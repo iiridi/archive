@@ -1,5 +1,9 @@
 ---
-tags: [axiom]
+tags:
+  - axiom
+title: Manifestation
+aliases:
+  - Manifestation
 ---
 
 Manifestation is the art of shaping, moving, and altering energy to affect the physical world in some way. Different civilizations across the [[Astra/index|Astra]] call Manifestation different names — magic, worldshaping, spellcasting, psionics, words of power, martial arts, grave-singing, mind over matter, allomancy, temperwright, and hundreds of others.
@@ -13,4 +17,3 @@ The energy used to manifest something is called mana.
 The greatest sources of energy in the [[Crystal Sphere]] are the twelve [[Althane/Realms/index.md|realms]] that orbit [[Althane/index|Althane]] (but the [[The Deep|Deep]] in the core of the planet powers some of the more taboo spells).
 
 Spellcasting is the most prevalent example of Manifestation in Althane. It's believed to be one of the more potent forms, but its use permanently alters the user. An easily-spotted effect is the rings of color that form in the sclera of the eyes of a spellcaster (called spellrings). The color of the rings is derived from the realm that a caster channels; while the quantity and thickness are from the potency of the spells cast.
-

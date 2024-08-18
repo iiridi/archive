@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Aasimar
+aliases:
+  - Aasimar
 ---
 
 Aasimar are touched by [[Davar]] and have a connection to the aspect of Providence. Aasimar are thought to be supremely blessed with strength of will, extraordinary beauty, and innate magical gifts; but many aasimar find that these perceived talents -- whether they truly have them or not -- set them apart from their friends and family, fostering loneliness in themselves and jealousy in others. Aasimar with a positive outlook face these challenges by serving their communities, populating the environment with kindness or artwork, or simply supporting those who are less fortunate. Some aasimar hold a more hostile worldview, however, and risk falling into resentment, despair, or even the temptations of evil. Even then, the stereotypes surrounding an aasimar cling close, causing others to view them as tragic figures in need of redemption.

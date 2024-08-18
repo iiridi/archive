@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Sylph
+aliases:
+  - Sylph
 ---
 
 Sylphs are touched by [[Vaati|Vaati]] and have a connection to the aspect of Individualism. Sylphs enjoying following their own tempos, shifting between wild energy that draws all eyes to embodying the spirit of unseen breezes that slip away without note. They often build their identities around their perceived personal connection to the element of air, relating to a gentle breeze, a sudden flash of lightning, or an uncontrollable storm.

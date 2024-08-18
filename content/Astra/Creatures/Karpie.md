@@ -1,5 +1,9 @@
 ---
-tags: [monster]
+tags:
+  - monster
+title: Karpie
+aliases:
+  - Karpie
 ---
 
 Karpies are [[Bioarcanic Engineering|bioarcanically engineered]] fish designed to traverse the shallow, muddy fens of [[Althane/Location/Salores/index|Salores]]. They're easy to steer and feed, and due to a mistake in their creation they have absolutely no self-preservation instinct.

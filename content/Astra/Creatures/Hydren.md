@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Hydren
+aliases:
+  - Hydren
 ---
 
 Hydren are [[Human|Humans]] who adapted to live with [[Natural Phenomena/Tidal|the Tidal]] instead of building up fortifications to keep it out. Hydren have an air of inevitability about them, like anything they set out to do will eventually be accomplished, regardless of how long it takes. Hydren can be famously headstrong and self-assured, but their dogged persistence helps them complete tasks that others thought impossible.

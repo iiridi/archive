@@ -1,5 +1,9 @@
 ---
-tags: [human]
+tags:
+  - human
+title: Yantho
+aliases:
+  - Yantho
 ---
 
 Yantho was a [[Human]] with bright blue eyes, heavy scarring across the left half of his face, and a large, teal tattoo of a dragon across his arms and upper torso.

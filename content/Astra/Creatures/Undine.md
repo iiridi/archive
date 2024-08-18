@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Undine
+aliases:
+  - Undine
 ---
 
 Undine are touched by [[Sunnok|Sunnok]] and have a connection to the aspect of Caprice. Undine often go through life in a series of shifting phases, their interests waxing, waning, or sometimes morphing altogether as old loves are discarded for new interests. Structure provides a much-needed focus to undine's lives, and without strong goals or support from those around them, undine can find themselves stagnating in feelings of despondence. Most undine feel they personify specific aspects of water, some seeing themselves with the strength and power of the waves, the speed and tenacity of a river current, or the calm of a peaceful lake or pond. Others identify with all these aspects and more, their demeanors shifting like the tides from one situation to the next.

@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Bes
+aliases:
+  - Bes
 ---
 
 Bes are eminently practical and pragmatic hunters and raiders. To bes, honor is just another word for pointless risk. Any loss of a bes affects not just the individual, but their packmates and kin as well. Wasting time on anything but victory, whether it's mercy or cruelty, is seen as little shy of immoral. Bes see effectiveness as a cardinal virtue and believe that the best fight is one that never gives the opponent a chance to strike back. The bes tend to be masters of ambushes, tactical feints, and psychological warfare.

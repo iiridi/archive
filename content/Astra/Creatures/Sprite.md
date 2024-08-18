@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Sprite
+aliases:
+  - Sprite
 ---
 
 Sprites are diminutive, whimsical, and exuberant creatures from beyond. They love playing pranks, exploring new things, and embracing everything to do with magic. Sprites habitually live in tiny, reclusive villages in areas with abundant magic, natural beauty, or other curiosities of interest. Other sprites live as loners or with small family or peer groups, traveling across the land in search of excitement.

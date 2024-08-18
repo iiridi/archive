@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: Hunter Schools
+aliases:
+  - Hunter Schools
 ---
 
 The Hunter Schools are a loosely-connected coalition of organizations devoted to the identification and extermination of dangerous magical beasts. Each School has long-standing traditions and jealously-guarded techniques that are passed down to new entrants into the school. Fully-fledged Hunters will travel the world, tracking down their prey across vast distances. Some Hunters request (or demand) payment from the locals for their services, others do it for personal vengeance, and still others do it simply for the Thrill of the Hunt.

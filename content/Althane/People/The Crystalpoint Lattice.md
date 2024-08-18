@@ -1,5 +1,8 @@
 ---
 tags: []
+title: The Crystalpoint Lattice
+aliases:
+  - The Crystalpoint Lattice
 ---
 
 The Crystalpoint Lattice is a multi-dimensional mesh of red, octahedral gemstones suspended in a golden filament. When the Lattice is deep in thought, one can see light move from crystal to crystal in a fashion similar to the current understanding of electrical signals through neurons.

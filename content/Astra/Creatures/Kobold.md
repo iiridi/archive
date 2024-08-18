@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Kobold
+aliases:
+  - Kobold
 ---
 
 Kobolds are resourceful survivors whose snare-guarded warrens and opportunistic scavenging have cast them as villains to most other humanoids, with their draconic reverence lending them a reputation as mere minions and nuisances. Yet some kobolds have emerged from their secluded warrens seeking the relative safety of surface settlements, the lucrative prospects of the adventuring life, or validating awe from followers of their own.

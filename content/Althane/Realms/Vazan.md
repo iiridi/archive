@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Vazan
+aliases:
+  - Vazan
 ---
 
 Vazan isn’t a whole planet, but is instead around ten continent-sized rocks in tight, but erratic, orbit around each other.

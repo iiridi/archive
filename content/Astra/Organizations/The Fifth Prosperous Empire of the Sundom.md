@@ -1,5 +1,9 @@
 ---
-tags: [political]
+tags:
+  - political
+title: The Fifth Prosperous Empire of the Sundom
+aliases:
+  - The Fifth Prosperous Empire of the Sundom
 ---
 
 The Fifth Prosperous Empire of the Sundom (Sundom, for short) was an empire of hundreds of vassal states, spread across the majority of an arm of the [[Astra/index|Astra]]. The empire was founded out of the ruins of the Fourth Sundom, with the single goal of the total annihilation of the [[Ascended Thessian|Thessians]].

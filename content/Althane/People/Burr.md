@@ -1,5 +1,9 @@
 ---
-tags: [kobold]
+tags:
+  - kobold
+title: Burr
+aliases:
+  - Burr
 ---
 
 Burr is a female, red-scaled [[Kobold]] of about 10 years. She's originally from [[Althane/Location/Lunae Badlands/Hidden Gulch/Junction/index|Junction]], but [[Anatoli Suvchek]] identified her engineering talents and saved her from a life in the mines.

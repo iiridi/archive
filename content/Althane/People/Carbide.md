@@ -1,5 +1,10 @@
 ---
-tags: [human, aphorite]
+tags:
+  - human
+  - aphorite
+title: Carbide
+aliases:
+  - Carbide
 ---
 
 Carbide is a member of the [[Althane/Location/Salores/Toleros/index|Toleros]] cell of the [[The Network|Network]]. He's a shrewd negotiator and a logistics wunderkind, managing a great deal of information flow for the region.

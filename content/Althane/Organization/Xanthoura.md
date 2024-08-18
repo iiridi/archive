@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: Xanthoura
+aliases:
+  - Xanthoura
 ---
 
 Xanthoura is a guild of assassins operating out of the [[Aumana Wastes]]. Famously, a guildmember killed the entire [[The Triptych|Saloren Triptych]] during a public address by enchanting their clothes to strangle them. No member of the Xanthoura knows any other member except their direct subordinates; instead, a complex message-passing system is used to distribute targets across the organization.

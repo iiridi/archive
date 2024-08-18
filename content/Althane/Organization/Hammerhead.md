@@ -1,6 +1,9 @@
 ---
 title: Hammerhead®
-tags: [mercantile]
+tags:
+  - mercantile
+aliases:
+  - Hammerhead®
 ---
 
 Hammerhead<sup>®</sup> is a firearm producer with a factory in [[Althane/Location/Salores/Toleros/index|Toleros]]. Hammerheads are famously "point-and-click" where a single slug can clear a room and backpressure runes nearly eliminate recoil.

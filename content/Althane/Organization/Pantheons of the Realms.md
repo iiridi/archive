@@ -1,5 +1,9 @@
 ---
-tags: [religious]
+tags:
+  - religious
+title: Pantheons of the Realms
+aliases:
+  - Pantheons of the Realms
 ---
 
 The Pantheon of the Realms is the collective name for the twelve different temples that worship one of the orbiting [[Althane/Realms/index.md|realms]] around Althane. Each one focuses on their realm's Aspect and acolytes of the faith try to embody the Aspect as best as they can. This leads to variations in the different temples; for example, while a temple to [[Dahn]] may be the traditional structure that one might expect, temples to [[Kybal]] look closer to workshops than places of worship, and temples to [[Udasil]] are generally also gravesites.

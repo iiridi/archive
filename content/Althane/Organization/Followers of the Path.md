@@ -1,5 +1,9 @@
 ---
-tags: [religious]
+tags:
+  - religious
+title: Followers of the Path
+aliases:
+  - Followers of the Path
 ---
 
 A Follower of the Path is anyone who puts their faith in one of the four Templar orders of Althane. The orders can trace their heritage back to a group of four heroes who fought a great evil -- and gained a piece of [[Althane/Divinity/Lacuna/index|Lacuna]] in the process. While each of the four orders has different rites, hierarchies, and specific goals, they all cite rooting out evil as a motivating force.

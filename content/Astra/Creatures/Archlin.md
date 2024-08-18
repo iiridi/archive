@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Archlin
+aliases:
+  - Archlin
 ---
 
 Though familiar with the chaos of war, most archlins have orderly minds and prefer to live within established hierarchies. While many archlins consider sentimentality weak, those with mild temperaments have found success in diplomacy and international outreach. Even civilian groups such as farming collectives or trading houses organize into regiments, companies, and divisions. Most archlins fixate on social status, and many constantly strive to advance their social position.

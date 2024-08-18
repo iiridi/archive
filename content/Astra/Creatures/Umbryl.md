@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Umbryl
+aliases:
+  - Umbryl
 ---
 
 Umbryl are [[Human|Humans]] who made a pact with the [[Lacuna's Shadow|Shadow]] long ago, allowing them to partially cross the veil between realms without completing the transition. These lithe and shadowy beings seem to sink and vanish into the gloom. They see in darkness, exercise control over shadows, and have strange occult powers.

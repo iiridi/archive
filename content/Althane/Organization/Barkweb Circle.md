@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: Barkweb Circle
+aliases:
+  - Barkweb Circle
 ---
 
 Early on in the cycle, a druid in the [[Kettin Forests]] discovered that they could ask the plants around them to transmit a message to others in the forest. This allowed their circle to quickly spread across the continent, and it wasn't long before some of the more politically savvy members of the conclave saw a way to integrate themselves into society across the globe, using their messaging network as leverage. It's common in nearly every large city to have at least a small collection of "Barkers" (as they're called by near-everyone). The circle strives to be the connecting bridge across the world, thereby bringing everyone closer to a single ideal.

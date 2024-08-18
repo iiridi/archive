@@ -1,5 +1,9 @@
 ---
-tags: [store]
+tags:
+  - store
+title: Anvil and Nail
+aliases:
+  - Anvil and Nail
 ---
 
 The Anvil and Nail is a large smeltery and forge in the heart of [[Althane/Location/Lunae Badlands/Hidden Gulch/Junction/index|Junction]]. The building has three floors packed full of bellows and anvils, and can be seen from across the town due to the massive papier-mâché anvil mounted to the roof.

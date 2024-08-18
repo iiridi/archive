@@ -1,7 +1,11 @@
 ---
 title: YuDaan's Nine-fold Treatise
-tags: [document]
+tags:
+  - document
+aliases:
+  - YuDaan's Nine-fold Treatise
 ---
+
 `Below is an excerpt, copied with permission from the central stream`
 
 ### §2.6 On the Subject of the Nine Dimensions, and Their Inherent Qualities, and the Relationships Therein

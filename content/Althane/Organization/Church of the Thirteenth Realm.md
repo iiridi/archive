@@ -1,5 +1,9 @@
 ---
-tags: [religious]
+tags:
+  - religious
+title: Church of the Thirteenth Realm
+aliases:
+  - Church of the Thirteenth Realm
 ---
 
 The Church of the Thirteenth Realm is based in [[Althane/Location/Lunae Badlands/Hidden Gulch/Haven/index|Haven]], and is lead by [[Ezekiel Grimm|Reverend Grimm]]. They preach about a paradise granted to them by a hidden realm that orbits [[Althane/index|Althane]] and [[Ilkyne]].

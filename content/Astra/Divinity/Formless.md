@@ -1,4 +1,10 @@
 ---
-tags: [divinity, higher-kind, thessian]
+tags:
+  - divinity
+  - higher-kind
+  - thessian
+title: Formless
+aliases:
+  - Formless
 ---
 

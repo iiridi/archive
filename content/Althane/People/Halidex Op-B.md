@@ -1,7 +1,11 @@
 ---
 title: Halidex Op-B
-tags: [kaathe]
+tags:
+  - kaathe
+aliases:
+  - Halidex Op-B
 ---
+
 Hali is a [[Kaathe]] with extensive memory loss. Her orb was kept in an [[Althane/Location/Illyara/index|Illyaran]] archive until it was shipped in secret to [[Aliaksandr Sarken]]. After a series of thefts and counter-thefts, the orb now resides in the hands of [[The Weft]], who are currently searching out its twin for [[Tennobrin Er-K|Tenno]].
 
 Hali is a red-glowing, floating, glass orb in the real world, but is a twelve-foot tall, dark-metal and ceramic construct in her dream. She wears a cloak that shades her face, but her single, red-glowing eye is visible in the cowl. Her head is surrounded by a slowly rotating ring of red runes.

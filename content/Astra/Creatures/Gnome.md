@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Gnome
+aliases:
+  - Gnome
 ---
 
 Gnomes were [[Human|Humans]] that long ago came into contact with [[Natural Phenomena/Zephyr|the Zephyr]], an ephemeral force of mutability. Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction -- the Bleaching -- strikes gnomes who fail to dream, innovate, and take in new experiences. The Bleaching slowly drains the color from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives.

@@ -1,5 +1,9 @@
 ---
-tags: [axiom]
+tags:
+  - axiom
+title: Aetheric Laws
+aliases:
+  - Aetheric Laws
 ---
 
 As the energy within the [[Astra/Natural Laws/Projection/The Aetheric Field/index|Aether]] is non-uniformly distributed, it can be extrapolated that there are laws that govern the energy's behavior. The three primary laws are the law of mass, the law of impulse, and the law of consumption.

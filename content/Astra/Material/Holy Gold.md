@@ -1,5 +1,9 @@
 ---
-tags: [starmetal]
+tags:
+  - starmetal
+title: Holy Gold
+aliases:
+  - Holy Gold
 ---
 
 Holy Gold is a mythical [[Starmetal|starmetal]] found everywhere in the [[Astra/index|Astra]] in exceptionally small quantities. It's said that it appears only by divine providence, and all attempts to manufacture the metal have failed with grievous consequences.

@@ -1,7 +1,11 @@
 ---
 title: Hester & Sons®
-tags: [mercantile]
+tags:
+  - mercantile
+aliases:
+  - Hester & Sons®
 ---
+
 Hester & Sons<sup>®</sup> is a family-owned firearms manufacturer based out of [[Vallastela]]. They specialize in a range of handguns of all sizes, to prepare the average user for any dangerous situation. A snippet of their selection is below:
 
 ### Hester & Sons<sup>®</sup> .17 Hornet

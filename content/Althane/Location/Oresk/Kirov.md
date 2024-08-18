@@ -1,5 +1,9 @@
 ---
-tags: [city]
+tags:
+  - city
+title: Kirov
+aliases:
+  - Kirov
 ---
 
 The capital city of [[Althane/Location/Oresk/index|Oresk]] and the seat of power for the [[Kommandant]]. The city is a living dichotomy of beautiful roads and buildings, warm and inviting homes and restaurants, and a vibrant populace juxtaposed with deadly cold, the ever-hanging spectre of famine, an invasive police state, and air that literally drains the emotion out of those who breathe it.

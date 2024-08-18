@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Elf
+aliases:
+  - Elf
 ---
 
 Elves are [[Human|Humans]] who were touched by [[Natural Phenomena/Starfont|the Starfont]] -- a primal source of magic from beyond the planet -- and shaped by the event into a more ethereal form. Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way that is practically magnetic to members of other ancestries. They are often voraciously intellectual, though their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient. Valuing kindness and beauty, elves ever strive to improve their manners, appearance, and culture.

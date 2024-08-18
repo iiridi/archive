@@ -1,5 +1,9 @@
 ---
-tags: [wonder]
+tags:
+  - wonder
+title: Tidal
+aliases:
+  - Tidal
 ---
 
 The Tidal is a miles-high wave that begins on the easternmost part of the continent and travels across the entire ocean until it slams into the westernmost coast — which happens to be [[Althane/Location/Salores/index|Salores]].

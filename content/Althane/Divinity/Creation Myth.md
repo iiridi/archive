@@ -1,5 +1,9 @@
 ---
-tags: [event]
+tags:
+  - event
+title: Creation Myth
+aliases:
+  - Creation Myth
 ---
 
 The [[Crystal Sphere|world]] began as an inert, uniform expanse of red particulate, floating in otherwise empty space. For an infinitely long time, and yet no time at all, the particulate stayed as it was. It did not move, for there was nothing to move it; it did not change, as there was nothing to change it.

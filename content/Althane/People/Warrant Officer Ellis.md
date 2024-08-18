@@ -1,5 +1,9 @@
 ---
-tags: [archlin]
+tags:
+  - archlin
+title: Warrant Officer Ellis
+aliases:
+  - Warrant Officer Ellis
 ---
 
 WO. Ellis is a teenaged [[Archlin]] with an ill-fitting uniform and an obvious greenness when handling a [[Guns|firearm]].

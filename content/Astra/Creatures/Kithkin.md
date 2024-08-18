@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Kithkin
+aliases:
+  - Kithkin
 ---
 
 Kithkin are [[Human|Humans]] who lived amongst [[Natural Phenomena/Mycelia|the Mycelia]], a magical fungal forest renowned for bestowing luck on its inhabitants. Optimistic and cheerful, blessed with uncanny luck, and driven by a powerful wanderlust, kithkin make up for their short stature with an abundance of bravado and curiosity. Despite their excitable but easygoing attitude, kithkin are highly skilled warriors. An individual kithkin might hunt a beast many times their size just for the sport of it, but even in the jaws of danger they rarely lose their sense of humor.

@@ -1,5 +1,9 @@
 ---
-tags: [dwarf]
+tags:
+  - dwarf
+title: Colonel Markus Witney
+aliases:
+  - Colonel Markus Witney
 ---
 
 Col. Witney is a grizzled, battle-scarred [[Dwarf]] from the [[Althane/Location/Lunae Badlands/Hidden Gulch/index|Hidden Gulch]]. He keeps his uniform in pristine condition, with nary a speck of dust despite working in a desert canyon.

@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: The Network
+aliases:
+  - The Network
 ---
 
 The Network is a group of informants and spies working under the [[The Broker|Broker]] to maximize information distribution to their wealthy clients. Due to their less-than-legal activities, the organization doesn't advertise, and many people go their entire lives without interacting with the group as a whole.

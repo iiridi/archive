@@ -2,6 +2,7 @@
 title: Færrin
 aliases:
   - Faerrin
+  - Færrin
 tags:
   - planet
   - setting

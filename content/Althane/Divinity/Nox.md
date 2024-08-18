@@ -1,3 +1,9 @@
 ---
-tags: [divinity, thessian]
+tags:
+  - divinity
+  - thessian
+title: Nox
+aliases:
+  - Nox
 ---
+

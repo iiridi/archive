@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Itarii
+aliases:
+  - Itarii
 ---
 
 Itarii value ferocity, vengeance, and devotion above all else. Their dark, formidable wingspans and long history of taking revenge for their fallen family members have painted them as winged devils in the eyes of neighboring human populations. In contradiction to their misunderstood nature, itarii boast a spiritual, artistic, and compassionate culture that is rarely seen outside of their roosts.

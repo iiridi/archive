@@ -1,5 +1,10 @@
 ---
-tags: [human, aasimar]
+tags:
+  - human
+  - aasimar
+title: Jude Bell
+aliases:
+  - Jude Bell
 ---
 
 Jude is male [[Aasimar]] in his mid-20s, with tanned skin and a very faint halo that hangs above his shaved head.

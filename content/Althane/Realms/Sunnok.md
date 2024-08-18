@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Sunnok
+aliases:
+  - Sunnok
 ---
 
 Sunnok is a stormy planet with dark purple oceans that carry miles-high waves large enough to be seen from Althane when in conjunction.

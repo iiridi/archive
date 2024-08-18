@@ -1,3 +1,8 @@
 ---
-tags: [city]
+tags:
+  - city
+title: Ekatan
+aliases:
+  - Ekatan
 ---
+

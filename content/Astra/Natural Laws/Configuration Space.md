@@ -1,7 +1,13 @@
 ---
-aliases: [Ashmont Space, Hemn Space]
-tags: [document]
+aliases:
+  - Ashmont Space
+  - Hemn Space
+  - Configuration Space
+tags:
+  - document
+title: Configuration Space
 ---
+
 `Included below is an excerpt of a dialogue between a fraa, Roterodamus, and his pupil, the young Barb.`
 
 > [!quote]

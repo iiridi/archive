@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Vikar
+aliases:
+  - Vikar
 ---
 
 Vikar is a cloud-covered planet, with swirls of red, blue, and green obscuring the ground from view.

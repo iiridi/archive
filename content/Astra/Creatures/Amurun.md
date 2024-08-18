@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Amurun
+aliases:
+  - Amurun
 ---
 
 Amurun are outgoing, active humanoids who delight in discovery, whether of hidden ruins or a comfortable place to nap. They are exceptionally social, both within their tight-knit communities and with other creatures they meet. Remarkably brave, amurun see themselves as guardians of the world against forces that would assail it, and they believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight.

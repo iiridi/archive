@@ -1,5 +1,9 @@
 ---
-tags: [crafting-material]
+tags:
+  - crafting-material
+title: Gunpowder
+aliases:
+  - Gunpowder
 ---
 
 A highly explosive powder that remains stable in transport and is cheap to produce. First discovered this cycle in 662 by artificers in [[Althane/Location/Salores/Toleros/index|Toleros]], its obvious offensive capabilities quickly spread throughout the [[The Occident|Occident]].

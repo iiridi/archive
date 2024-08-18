@@ -1,5 +1,9 @@
 ---
-tags: [religious]
+tags:
+  - religious
+title: Children of the Scale
+aliases:
+  - Children of the Scale
 ---
 
 The Children of the Scale are a longstanding group that has argued against a disparity between magic users and everyone else, believing that non-spellcasters are treated as second-class citizens in many parts of the world.

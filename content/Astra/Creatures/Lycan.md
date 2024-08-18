@@ -1,5 +1,9 @@
 ---
-tags: [monster]
+tags:
+  - monster
+title: Lycan
+aliases:
+  - Lycan
 ---
 
 Lycans are the class of creatures that can transform (either partially or wholly) into an animal. Lesser lycans can't control their transformation and are often hunted down for endangering the populace where they live. Greater lycans have much better control, and can even receive great increases in power depending on which of the realms is in conjunction.

@@ -1,5 +1,9 @@
 ---
-tags: [weapon]
+tags:
+  - weapon
+title: Guns
+aliases:
+  - Guns
 ---
 
 The discovery of a way to produce [[Gunpowder|gunpowder]] was quickly followed by the natural progression of guns. Guns — being metal devices capable of propelling metal shrapnel faster than the speed of sound — were something that could break through nearly any set of armor or magical defenses, and can be wielded by near-anyone without any formal training.

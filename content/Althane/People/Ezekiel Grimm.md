@@ -1,5 +1,9 @@
 ---
-tags: [kitsune]
+tags:
+  - kitsune
+title: Ezekiel Grimm
+aliases:
+  - Ezekiel Grimm
 ---
 
 Reverend Ezekiel Grimm is the founder and spiritual leader of [[Althane/Location/Lunae Badlands/Hidden Gulch/Haven/index|Haven]] and the [[Church of the Thirteenth Realm]]

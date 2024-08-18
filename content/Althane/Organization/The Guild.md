@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: The Guild
+aliases:
+  - The Guild
 ---
 
 At one point the Guild was called the Guild for the Greater Good, but it eventually became so ubiquitous throughout the realm that whenever someone mentioned "The Guild" everyone else already knew what they were talking about. The Guild is an organization of adventurers, mercenaries, and heroes that are willing to throw themselves into mortal danger to protect others. Members of the Guild have special privileges that allow them to pass quickly through border customs and get discounts at some supply shops. In exchange, local governments hold the Guild on retainer for when a monster makes its home near their towns or a bandit camp is formed on a trade route.

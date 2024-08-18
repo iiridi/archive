@@ -1,5 +1,9 @@
 ---
-tags: [umbryl]
+tags:
+  - umbryl
+title: Kyarlotec
+aliases:
+  - Kyarlotec
 ---
 
 Kyarlotec is an [[Umbryl]] with light gray skin covered in red tattoos. His eyes are mirrored such that one cannot tell where he is looking.

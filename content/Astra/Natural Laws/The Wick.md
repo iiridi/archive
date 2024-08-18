@@ -1,5 +1,9 @@
 ---
-aliases: [The Root]
-tags: [axiom]
+aliases:
+  - The Root
+  - The Wick
+tags:
+  - axiom
+title: The Wick
 ---
 

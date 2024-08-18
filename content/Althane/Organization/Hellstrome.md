@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: Hellstrome
+aliases:
+  - Hellstrome
 ---
 
 Hellstrome is a rail company headquartered in [[Deadman's Vale]]. Their train engines all have names associated with them.

@@ -1,6 +1,8 @@
 ---
 title: Realms
-aliases: [Realms]
+aliases:
+  - Realms
+tags: []
 ---
 
 [[Manifestation]] in Althane (the [[Crystal Sphere]])  is rooted in [[Althane/index|Althane]] (the planet), [[Ilkyne]], and their twelve orbiting realms[^1]. Spellcasters, magical creatures, and other entities with the capacity to Manifest power their abilities by drawing upon one of the realms. Depending on the aspect of the realm used, different effects can be observed. For instance, spells that draw from Udasil — the aspect of Decay — can freeze the ground, calm emotions, and drain vigor.

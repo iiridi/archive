@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Kybal
+aliases:
+  - Kybal
 ---
 
 Kybal is a brown and green rocky planet, with spires of rock that extend past its atmosphere into the space beyond. The spires of rock appear to shift, as with each passing conjunction they’re in a different location.

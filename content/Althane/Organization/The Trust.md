@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: The Trust
+aliases:
+  - The Trust
 ---
 
 Given the many [[Cycle|cycles]] that passed before this one, there should be vast amounts of ancient knowledge spread throughout the world. Despite this, only a smattering of writing appears to have made the transition from previous cycles to this one. The Trust is a collection of scholars who aim to discover what causes the loss of information, why some things aren't affected, and how they can preserve their knowledge of past cycles in the future. To this end, they collect as much of the writing from past cycles as they can, and store them in the great arcanums they have across the continent.

@@ -1,5 +1,10 @@
 ---
-tags: [gnome, aasimar]
+tags:
+  - gnome
+  - aasimar
+title: Olive Faye
+aliases:
+  - Olive Faye
 ---
 
 Olive is an [[Aasimar]] in her late-60s with dark, sunbaked skin and a pair of white wings.

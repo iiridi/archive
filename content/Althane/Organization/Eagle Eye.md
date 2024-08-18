@@ -1,7 +1,11 @@
 ---
 title: Eagle-eye®
-tags: [mercantile]
+tags:
+  - mercantile
+aliases:
+  - Eagle-eye®
 ---
+
 Eagle-eye<sup>®</sup> is a single person with a workshop in the [[Kettin Forests]] that makes hyper-accurate sniper rifles. No one knows the identity of the proprietor, and the only time they've been seen in public is when they demonstrated one of their firearms by hitting a target 1000 feet away.
 
 ### Eagle-eye<sup>®</sup> .32 Trueshot

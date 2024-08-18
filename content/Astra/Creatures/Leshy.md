@@ -1,5 +1,9 @@
 ---
-tags: [ancestry]
+tags:
+  - ancestry
+title: Leshy
+aliases:
+  - Leshy
 ---
 
 Leshies are "born" when a skilled druid or other master of primal magic conducts a ritual to create a suitable vessel, and then a spirit chooses that vessel to be their temporary home. Leshies are self-sufficient from the moment the ritual ends, and so they do not depend upon these druids for care, though it is not uncommon for leshies to maintain lifelong bonds with their creators.

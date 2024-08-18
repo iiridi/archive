@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Shamash
+aliases:
+  - Shamash
 ---
 
 Shamash is a collection of six smaller planetoids connected by pliant bridges of light blue thread. While the thread appears weak from a distance, it does overcome the pull of the planets to keep them bonded, and must have great tensile strength.

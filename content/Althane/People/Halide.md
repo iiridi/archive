@@ -1,5 +1,9 @@
 ---
-tags: [human]
+tags:
+  - human
+title: Halide
+aliases:
+  - Halide
 ---
 
 Halide is a member of the [[Ialassa]] cell of [[The Network|the Network]]. While they traditionally manage information flow in their own city, Halide has been known to overreach and meddle in other towns before.

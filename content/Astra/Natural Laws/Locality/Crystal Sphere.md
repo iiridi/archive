@@ -1,5 +1,9 @@
 ---
-tags: [axiom]
+tags:
+  - axiom
+title: Crystal Sphere
+aliases:
+  - Crystal Sphere
 ---
 
 A Crystal Sphere is the most common kind of [[Astra/Natural Laws/Locality/index|locality]] found within the Astra. Spheres are categorized by a great shell of opaque white crystal containing some celestial bodies within. Each sphere has different rules by which one can [[Manifestation|manifest]], and no two spheres are identical.

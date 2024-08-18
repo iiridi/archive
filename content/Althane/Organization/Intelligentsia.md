@@ -1,5 +1,9 @@
 ---
-tags: [mercantile]
+tags:
+  - mercantile
+title: Intelligentsia
+aliases:
+  - Intelligentsia
 ---
 
 Intelligentsia is a collective of philosophers, painters, poets, and more devoted to other creative crafts. While their Chateau is in [[Althane/Location/El Rasar/Qor Bahi/index|Qor Bahi]] in [[Althane/Location/El Rasar/index|El-Rasar]], there are chapters of the group across the continent. The organization seeks to increase the total amount of beauty in the world, however, the definition of beauty is left to the individual that is enacting said change.

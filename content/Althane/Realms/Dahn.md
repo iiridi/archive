@@ -1,5 +1,9 @@
 ---
-tags: [planet]
+tags:
+  - planet
+title: Dahn
+aliases:
+  - Dahn
 ---
 
 Dahn is a white and light yellow planet with three yellow rings. The rings all rotate at different intervals and align perfectly only once every sixty years.
